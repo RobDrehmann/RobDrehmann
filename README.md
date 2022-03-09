@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="" alt="my banner"></a>
+  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="Screen Shot 2022-03-09 at 11.44.36 AM.png" alt="my banner"></a>
 </p>
 
 <h3 align="center">
@@ -20,20 +20,19 @@ I love the entire process of developing creative websites. I love the challenge 
 </br>
 
 
-## 🔭 I'm currently working on
+## I'm currently working on
 
-- My old projects
-- Restaurant Recommendation App (React-Native)
-- Mobile + Desktop Spotify Clone (Working on it soon...)
-- My next blog
-- My CSS skill
+- New Website
+- Blog
+- Mobile Development Skills
+- Personal Assistant 
 
-## 🌱 I'm currently learning
+## I'm currently learning
 
-- 📱 React Native
-- Firebase
-- React Context API
-- Styled Components  
+- 📱 Dart
+- Google Cloud Development
+- Compiler Desgin 
+- Tensorflow 
 
 ## 💼 Technical Skills
 
