@@ -1,6 +1,4 @@
-<p align="center">
-  <a href= target="_blank" rel="noreferrer"><img src="Screen Shot 2022-03-09 at 11.44.36 AM.png" alt="my banner"></a>
-</p>
+
 
 <h3 align="center">
 Hi there, I'm <a href="" target="_blank" rel="noreferrer">Rob</a> 👋
